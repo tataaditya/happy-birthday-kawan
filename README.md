@@ -45,6 +45,7 @@ const CONFIG = {
 };
 ```
 
-## 💕 Dibuat dengan Cinta
+## DARI UR BESTIE
 
 Untuk Natasha 🌹
+
