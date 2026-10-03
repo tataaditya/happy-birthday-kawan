@@ -132,7 +132,7 @@ function createConfetti(count = 50) {
 const POPUP_STEPS = [
     { title: "aamiin.....", img: "assets/js/download3.jpg" },
     { title: "Kami doain yanng terbaik buat kamu ok !! kamu ga sendirian", img: "assets/js/download4.jpg" },
-    { title: "Semangat kuliahnya natasha !!!", img: "assets/js/download5.jpg" },
+    { title: "Semangat kuliahnya kawan !!!", img: "assets/js/download5.jpg" },
     { title: "aku dan seluruh teman teman kamu selalu disamping kamu !!", img: "assets/js/Paham_.jpg" },
 ];
 
